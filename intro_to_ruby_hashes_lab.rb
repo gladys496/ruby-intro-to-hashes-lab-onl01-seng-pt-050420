@@ -3,6 +3,9 @@ new = {}
 end
 
 def actor
+  new_actor = {
+    :name => 
+  }
 
 end
 
