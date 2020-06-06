@@ -4,7 +4,7 @@ end
 
 def actor
   new_actor = {
-    :name => :value 
+    :name [] 
   }
 
 end
