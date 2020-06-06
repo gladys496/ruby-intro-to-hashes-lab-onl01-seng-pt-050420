@@ -3,8 +3,7 @@ new = {}
 end
 
 def actor
-  new_actor = {
-    :name "Dwayne The Rock Johnson" 
+  new_actor = {name: "Dwayne The Rock Johnson" 
   }
 
 end
